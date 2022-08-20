@@ -1,0 +1,9 @@
+package cat;
+
+public class xxx {
+	public static void main(String[] args) {
+		
+		acess d=new acess(); 
+		int c=d.add(20,30);
+	}
+}
